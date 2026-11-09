@@ -1,0 +1,21 @@
+# Never commit Wii disc images or extracted game data.
+*.iso
+*.wbfs
+*.rvz
+*.wia
+*.wdf
+*.gcz
+*.ciso
+*.nkit*
+*.dol
+*.bin
+*.map
+*.zip
+
+# Local build and test folders.
+work/
+build/
+output/
+outputs/
+__pycache__/
+*.pyc
